@@ -1,13 +1,3 @@
----
-
-```markdown
-# 📦 Dashboard de Gestión de Inventario
-
-Este proyecto corresponde a la evidencia **GA8-220501096-AA1-EV01** del programa **Tecnólogo en Análisis y Desarrollo de Software (SENA)**.  
-El objetivo es demostrar la integración de módulos de software mediante un sistema sencillo de gestión de inventario en **Java**, usando **IntelliJ IDEA** como IDE.
-
----
-
 ## 🚀 Funcionalidades principales
 
 El sistema está compuesto por módulos que representan las áreas fundamentales de un inventario:
